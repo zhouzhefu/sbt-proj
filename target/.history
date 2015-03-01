@@ -1,0 +1,3 @@
+np name:sbt-proj
+set version := "1.0"
+exit
